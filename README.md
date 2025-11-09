@@ -51,7 +51,73 @@
 
 ---
 
-## 🔭 What I'm Currently Working On
+## �️ Skills & Expertise
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <h3>💻 Frontend</h3>
+      <br/>
+      • HTML5 & CSS3<br/>
+      • Tailwind CSS<br/>
+      • JavaScript (ES6+)<br/>
+      • React.js<br/>
+      • Responsive Design<br/>
+    </td>
+    <td align="center" width="200">
+      <h3>⚙️ Backend</h3>
+      <br/>
+      • Node.js & Express.js<br/>
+      • Python & Django<br/>
+      • Java<br/>
+      • PHP<br/>
+      • RESTful APIs<br/>
+      • JWT Authentication<br/>
+    </td>
+    <td align="center" width="200">
+      <h3>🗄️ Database</h3>
+      <br/>
+      • MongoDB<br/>
+      • MySQL<br/>
+      • Database Design<br/>
+      • Query Optimization<br/>
+      • Data Modeling<br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h3>🔐 Security</h3>
+      <br/>
+      • Cybersecurity Basics<br/>
+      • Authentication Systems<br/>
+      • Secure Coding<br/>
+      • Threat Mitigation<br/>
+      • API Security<br/>
+    </td>
+    <td align="center" width="200">
+      <h3>🚀 DevOps & Tools</h3>
+      <br/>
+      • Git & GitHub<br/>
+      • Version Control<br/>
+      • CI/CD Concepts<br/>
+      • Terminal/CLI<br/>
+      • Deployment<br/>
+    </td>
+    <td align="center" width="200">
+      <h3>🤖 Other Skills</h3>
+      <br/>
+      • Problem Solving<br/>
+      • System Architecture<br/>
+      • AI Integration<br/>
+      • Code Optimization<br/>
+      • Debugging<br/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## �🔭 What I'm Currently Working On
 
 - Building projects with the **MERN stack** (MongoDB, Express.js, React, Node.js)
 - Exploring the exciting intersection of **AI and Cybersecurity**
