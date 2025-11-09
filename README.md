@@ -14,7 +14,7 @@ I'm a passionate Backend Developer who loves solving complex problems and buildi
   </a>
 </div>
 
-[![Portfolio Preview](https://raw.githubusercontent.com/Jbenash/Jbenash/main/portfolio-preview.png)](https://my-portfolio-oql4.vercel.app/)
+[![Portfolio Preview](https://raw.githubusercontent.com/Jbenash/Jbenash/main/assets/portfolio-preview.png)](https://my-portfolio-oql4.vercel.app/)
 
 ---
 
