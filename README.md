@@ -49,7 +49,7 @@ I'm a passionate Backend Developer who loves solving complex problems and buildi
 ## 📫 How to Reach Me
 
 - **Email:** [mbenash961030@gmail.com](mailto:mbenash961030@gmail.com)
-- **LinkedIn:** [linkedin.com/in/ben-asher](https://linkedin.com/in/ben-asher)
+- **LinkedIn:** [linkedin.com/in/ben-asher](https://www.linkedin.com/in/ben-asher-78a638275/)
 
 ---
 
