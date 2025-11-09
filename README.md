@@ -6,6 +6,18 @@ I'm a passionate Backend Developer who loves solving complex problems and buildi
 
 ---
 
+## 🌐 Portfolio
+
+<div align="center">
+  <a href="https://my-portfolio-oql4.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+[![Portfolio Preview](https://raw.githubusercontent.com/Jbenash/Jbenash/main/portfolio-preview.png)](https://my-portfolio-oql4.vercel.app/)
+
+---
+
 ## 💻 Tech Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
