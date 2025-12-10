@@ -82,8 +82,9 @@
       <h3>⚙️ Backend</h3>
       <br/>
       • Node.js & Express.js<br/>
+      • NestJS Framework<br/>
       • Python & Django<br/>
-      • Java<br/>
+      • Java & Hibernate<br/>
       • PHP<br/>
       • RESTful APIs<br/>
       • JWT Authentication<br/>
@@ -92,7 +93,9 @@
       <h3>🗄️ Database</h3>
       <br/>
       • MongoDB<br/>
-      • MySQL<br/>
+      • MySQL & PostgreSQL<br/>
+      • Prisma ORM<br/>
+      • Supabase<br/>
       • Database Design<br/>
       • Query Optimization<br/>
       • Data Modeling<br/>
@@ -100,6 +103,14 @@
   </tr>
   <tr>
     <td align="center" width="200">
+      <h3>🏗️ Architecture</h3>
+      <br/>
+      • MVC Pattern<br/>
+      • ORM (Prisma, Hibernate)<br/>
+      • RESTful Design<br/>
+      • Microservices<br/>
+      • System Architecture<br/>
+    </td>
       <h3>🔐 Security</h3>
       <br/>
       • Cybersecurity Basics<br/>
@@ -112,6 +123,7 @@
       <h3>🚀 DevOps & Tools</h3>
       <br/>
       • Git & GitHub<br/>
+      • Vercel, Render, Railway<br/>
       • Version Control<br/>
       • CI/CD Concepts<br/>
       • Terminal/CLI<br/>
@@ -121,8 +133,8 @@
       <h3>🤖 Other Skills</h3>
       <br/>
       • Problem Solving<br/>
-      • System Architecture<br/>
       • AI Integration<br/>
+      • Machine Learning (Scikit-learn)<br/>
       • Code Optimization<br/>
       • Debugging<br/>
     </td>
