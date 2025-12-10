@@ -111,32 +111,52 @@
       • Microservices<br/>
       • System Architecture<br/>
     </td>
+    <td align="center" width="200">
       <h3>🔐 Security</h3>
       <br/>
-      • Cybersecurity Basics<br/>
-      • Authentication Systems<br/>
-      • Secure Coding<br/>
-      • Threat Mitigation<br/>
+      • JWT Authentication<br/>
       • API Security<br/>
+      • Secure Coding Practices<br/>
+      • Threat Mitigation<br/>
+      • Cybersecurity Basics<br/>
     </td>
     <td align="center" width="200">
-      <h3>🚀 DevOps & Tools</h3>
+      <h3>🚀 DevOps & Deployment</h3>
       <br/>
       • Git & GitHub<br/>
       • Vercel, Render, Railway<br/>
-      • Version Control<br/>
       • CI/CD Concepts<br/>
+      • Cloudinary Integration<br/>
       • Terminal/CLI<br/>
-      • Deployment<br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h3>🤖 AI & ML</h3>
+      <br/>
+      • NumPy & Pandas<br/>
+      • Scikit-learn<br/>
+      • Jupyter Notebooks<br/>
+      • Data Analysis<br/>
+      • AI Integration<br/>
     </td>
     <td align="center" width="200">
-      <h3>🤖 Other Skills</h3>
+      <h3>💡 Soft Skills</h3>
       <br/>
       • Problem Solving<br/>
-      • AI Integration<br/>
-      • Machine Learning (Scikit-learn)<br/>
       • Code Optimization<br/>
-      • Debugging<br/>
+      • Debugging & Testing<br/>
+      • Code Review<br/>
+      • Technical Documentation<br/>
+    </td>
+    <td align="center" width="200">
+      <h3>🎨 Frontend Frameworks</h3>
+      <br/>
+      • React.js<br/>
+      • Next.js<br/>
+      • Tailwind CSS<br/>
+      • Responsive Design<br/>
+      • Modern UI/UX<br/>
     </td>
   </tr>
 </table>
